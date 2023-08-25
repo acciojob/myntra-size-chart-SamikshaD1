@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+*{
+	width:500px;
+	color:white;
+font-family: Arial, sans-serif;
+	
+}
+.sec{
+	text-align:right;
+	background-color:brown;
+	}
+.wik{
+	background-color:lightcoral;
+}
+.sam{
+	background-color:pink;
+}
+.sad{
+	background-color:lightgray;
+}
+th{
+	text-align:left;
+	
+}
+table,th,td{
+	border:1px solid black;
+	border-collapse: collapse;
+}
+td{
+	text-align:right
+}
