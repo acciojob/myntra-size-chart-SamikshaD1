@@ -2,22 +2,26 @@
 /* Your CSS Code here. */
 *{
 	width:500px;
-	color:white;
+	
 font-family: Arial, sans-serif;
 	
 }
 .sec{
 	text-align:right;
 	background-color:brown;
+	color:white;
 	}
 .wik{
 	background-color:lightcoral;
+	color:white;
 }
 .sam{
+	color:black;
 	background-color:pink;
 }
 .sad{
 	background-color:lightgray;
+	color:black;
 }
 th{
 	text-align:left;
